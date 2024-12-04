@@ -1,1 +1,1 @@
-<h1 >Flag Game </h1>
+<h1> Flag Game </h1>
